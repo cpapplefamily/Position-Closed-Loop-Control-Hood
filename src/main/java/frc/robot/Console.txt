@@ -1,0 +1,58 @@
+ning﻿ at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:62): 	teleopPeriodic(): 0.025654s ﻿
+﻿﻿﻿﻿﻿﻿ 	SmartDashboard.updateValues(): 0.000074s ﻿
+﻿﻿﻿﻿﻿﻿ 	robotPeriodic(): 0.000019s ﻿
+﻿﻿﻿﻿﻿﻿ 	LiveWindow.updateValues(): 0.000000s ﻿
+﻿﻿﻿﻿﻿﻿ 	Shuffleboard.update(): 0.000019s ﻿
+﻿﻿﻿﻿﻿﻿  ﻿
+﻿﻿﻿﻿﻿﻿﻿﻿ERROR ﻿﻿ 4 ﻿﻿ [CAN SPARK] IDs: 11, WPILib or External HAL Error: CAN: Message not found ﻿﻿  ﻿﻿﻿
+﻿﻿﻿﻿﻿﻿﻿﻿Warning ﻿﻿ 1 ﻿﻿ Loop time of 0.02s overrun
+ ﻿﻿ edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:412) ﻿﻿﻿
+﻿﻿﻿﻿﻿﻿ ﻿Warning﻿ at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:412): Loop time of 0.02s overrun ﻿
+﻿﻿﻿﻿﻿﻿  ﻿
+﻿﻿﻿﻿﻿﻿﻿﻿Warning ﻿﻿ 1 ﻿﻿ 	teleopPeriodic(): 0.026972s
+	SmartDashboard.updateValues(): 0.000037s
+	robotPeriodic(): 0.000000s
+	LiveWindow.updateValues(): 0.000000s
+	Shuffleboard.update(): 0.000019s
+ ﻿﻿ edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:62) ﻿﻿﻿
+﻿﻿﻿﻿﻿﻿ ﻿Warning﻿ at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:62): 	teleopPeriodic(): 0.026972s ﻿
+﻿﻿﻿﻿﻿﻿ 	SmartDashboard.updateValues(): 0.000037s ﻿
+﻿﻿﻿﻿﻿﻿ 	robotPeriodic(): 0.000000s ﻿
+﻿﻿﻿﻿﻿﻿ 	LiveWindow.updateValues(): 0.000000s ﻿
+﻿﻿﻿﻿﻿﻿ 	Shuffleboard.update(): 0.000019s ﻿
+﻿﻿﻿﻿﻿﻿  ﻿
+﻿﻿﻿﻿﻿﻿﻿﻿Warning ﻿﻿ 1 ﻿﻿ Loop time of 0.02s overrun
+ ﻿﻿ edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:412) ﻿﻿﻿
+﻿﻿﻿﻿﻿﻿ ﻿Warning﻿ at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:412): Loop time of 0.02s overrun ﻿
+﻿﻿﻿﻿﻿﻿  ﻿
+﻿﻿﻿﻿﻿﻿﻿﻿Warning ﻿﻿ 1 ﻿﻿ 	teleopPeriodic(): 0.025191s
+	SmartDashboard.updateValues(): 0.000074s
+	robotPeriodic(): 0.000019s
+	LiveWindow.updateValues(): 0.000000s
+	Shuffleboard.update(): 0.000000s
+ ﻿﻿ edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:62) ﻿﻿﻿
+﻿﻿﻿﻿﻿﻿ ﻿Warning﻿ at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:62): 	teleopPeriodic(): 0.025191s ﻿
+﻿﻿﻿﻿﻿﻿ 	SmartDashboard.updateValues(): 0.000074s ﻿
+﻿﻿﻿﻿﻿﻿ 	robotPeriodic(): 0.000019s ﻿
+﻿﻿﻿﻿﻿﻿ 	LiveWindow.updateValues(): 0.000000s ﻿
+﻿﻿﻿﻿﻿﻿ 	Shuffleboard.update(): 0.000000s ﻿
+﻿﻿﻿﻿﻿﻿  ﻿
+﻿﻿﻿﻿﻿﻿﻿﻿ERROR ﻿﻿ 4 ﻿﻿ [CAN SPARK] IDs: 11, WPILib or External HAL Error: CAN: Message not found ﻿﻿  ﻿﻿﻿
+﻿﻿﻿﻿﻿﻿﻿﻿Warning ﻿﻿ 1 ﻿﻿ Loop time of 0.02s overrun
+ ﻿﻿ edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:412) ﻿﻿﻿
+﻿﻿﻿﻿﻿﻿ ﻿Warning﻿ at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:412): Loop time of 0.02s overrun ﻿
+﻿﻿﻿﻿﻿﻿  ﻿
+﻿﻿﻿﻿﻿﻿﻿﻿Warning ﻿﻿ 1 ﻿﻿ 	teleopPeriodic(): 0.026786s
+	SmartDashboard.updateValues(): 0.000037s
+	robotPeriodic(): 0.000000s
+	LiveWindow.updateValues(): 0.000000s
+	Shuffleboard.update(): 0.000019s
+ ﻿﻿ edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:62) ﻿﻿﻿
+﻿﻿﻿﻿﻿﻿ ﻿Warning﻿ at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:62): 	teleopPeriodic(): 0.026786s ﻿
+﻿﻿﻿﻿﻿﻿ 	SmartDashboard.updateValues(): 0.000037s ﻿
+﻿﻿﻿﻿﻿﻿ 	robotPeriodic(): 0.000000s ﻿
+﻿﻿﻿﻿﻿﻿ 	LiveWindow.updateValues(): 0.000000s ﻿
+﻿﻿﻿﻿﻿﻿ 	Shuffleboard.update(): 0.000019s ﻿
+﻿﻿﻿﻿﻿﻿  ﻿
+﻿﻿﻿﻿﻿﻿﻿﻿ERROR ﻿﻿ 4 ﻿﻿ [CAN SPARK] IDs: 11, WPILib or External HAL Error: CAN: Message not found ﻿﻿  ﻿﻿﻿
+﻿﻿﻿﻿﻿﻿﻿﻿ERROR ﻿﻿ 4 ﻿﻿ [CAN SPARK] IDs: 11, WPILib or External HAL Erx
